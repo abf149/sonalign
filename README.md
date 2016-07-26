@@ -1,1 +1,3 @@
 # sonalign
+
+The rough project idea is to transmit sound in such a way that it is only comprehensible in the neighborhood of a single point in space. The method for doing this is to randomly assign each sample of an audio file to one speaker in a spatially distributed speaker array, and to apply a calculated delay to the samples emitted from each speaker so that the samples arrive at the target point with the proper timing.
